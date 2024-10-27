@@ -37,3 +37,5 @@ function high(x){
   
   return highestScoreWord;
 }
+
+// or
